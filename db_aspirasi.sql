@@ -74,7 +74,7 @@ INSERT INTO `aspirasi` (`id_aspirasi`, `status`, `id_pelaporan`, `feedback`, `ta
 
 --
 -- Table structure for table `input_aspirasi`
---
+-- username : admin password : admin
 
 CREATE TABLE `input_aspirasi` (
   `id_pelaporan` int(5) NOT NULL,
