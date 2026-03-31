@@ -92,14 +92,14 @@ CREATE TABLE `input_aspirasi` (
 INSERT INTO `input_aspirasi` (`id_pelaporan`, `nis`, `id_kategori`, `lokasi`, `ket`, `tanggal_input`) VALUES
 (1, 1001, 2, 'Ruang X RPL 1', 'Kursi di barisan belakang patah satu unit', '2026-03-20'),
 (2, 1003, 1, 'Taman Depan', 'Banyak sampah daun kering belum disapu', '2026-03-21'),
-(3, 2005, 7, 'Lab Komputer 3', 'Koneksi internet lambat saat jam praktik', '2026-03-22'),
-(4, 2002, 5, 'Gedung Olahraga', 'Net bulutangkis robek di bagian tengah', '2026-03-23'),
-(5, 2004, 6, 'Kantin Sehat', 'Varian menu sayuran kurang banyak', '2026-03-24'),
-(6, 2006, 9, 'Ruang UKS', 'Persediaan obat flu sedang kosong', '2026-03-25'),
-(7, 2008, 3, 'Parkir Motor', 'Butuh tambahan lampu penerangan malam', '2026-03-26'),
-(8, 2010, 8, 'Perpustakaan', 'Buku desain grafis tahun 2025 belum ada', '2026-03-27'),
-(9, 2007, 10, 'Halaman Belakang', 'Saluran air tersumbat plastik', '2026-03-28'),
-(10, 2009, 4, 'Gerbang Utama', 'Siswa sering bergerombol saat jam masuk', '2026-03-29');
+(3, 1005, 7, 'Lab Komputer 3', 'Koneksi internet lambat saat jam praktik', '2026-03-22'),
+(4, 1002, 5, 'Gedung Olahraga', 'Net bulutangkis robek di bagian tengah', '2026-03-23'),
+(5, 1004, 6, 'Kantin Sehat', 'Varian menu sayuran kurang banyak', '2026-03-24'),
+(6, 1006, 9, 'Ruang UKS', 'Persediaan obat flu sedang kosong', '2026-03-25'),
+(7, 1008, 3, 'Parkir Motor', 'Butuh tambahan lampu penerangan malam', '2026-03-26'),
+(8, 1010, 8, 'Perpustakaan', 'Buku desain grafis tahun 2025 belum ada', '2026-03-27'),
+(9, 1007, 10, 'Halaman Belakang', 'Saluran air tersumbat plastik', '2026-03-28'),
+(10, 1009, 4, 'Gerbang Utama', 'Siswa sering bergerombol saat jam masuk', '2026-03-29');
 
 -- --------------------------------------------------------
 
