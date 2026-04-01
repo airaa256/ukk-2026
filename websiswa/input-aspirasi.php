@@ -91,7 +91,7 @@
     </div>
      <footer>
         <div class="container">
-            <small>Copyright &copy; 2026 - givan</small>
+            <small>Copyright &copy; 2026 - adelia samaira</small>
         </div>
      </footer>
 </body>
